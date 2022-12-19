@@ -1,25 +1,25 @@
 ---
 layout: about
-title: about
+title:
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <t> PhD student, Climate Physics </t>
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<p>&nbsp;</p>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Hi there! I am a PhD student in the Department of Atmospheric, Oceanic and Planetary Physics at the University of Oxford, where my advisor is [Prof. Philip Stier](https://www2.physics.ox.ac.uk/contacts/people/stier){:target="\_blank"}. Check out my CV [here.](https://andrewwilliams3142.github.io/assets/pdf/CV_andrew_williams.pdf)
+
+My work focuses on connecting the results from complex models to basic, physical theory and understanding the role of clouds and large-scale circulation in climate change. 
+
+My research uses a **range of different tools** to understand how our planet responds to changes in **aerosols** (e.g. from pollution or wildfires) and **greenhouse gases** (e.g. CO$$ _{2} $$). I am particularly interested in connecting the results from complex models to basic, physical theory and understanding the role of clouds and large-scale circulations in climate change.
+
+I am also a keen advocate for reproducible, open-source science and contribute to numerous community projects on [GitHub](https://github.com/AndrewWilliams3142){:target="\_blank"}. You can find out some more about the projects I've been involved with on my [Research](https://andrewwilliams3142.github.io/research/) page.
